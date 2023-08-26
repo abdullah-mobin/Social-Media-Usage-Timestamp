@@ -4,7 +4,7 @@ import pygetwindow as gw
 import matplotlib.pyplot as plt
 from Collector import *
 START = 1
-
+MAX_L = 10
 
 print("Social Media / Application usage TimeStamp")
 print("------------------------------------------\n\n")
