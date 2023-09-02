@@ -10,8 +10,8 @@ How to install :
 
 1) Download Zip file or clone the repository 
 2) Extract and click the dist
-3) move visulaizer
-4) Scrol down ank click Visualizer.exe
+3) open the Visualizer.py
+4) Run Visualizer.py an enjoy beautiful time stamps according to your usage.
 
 BOOM!! Enjoy the wonderful application
 
